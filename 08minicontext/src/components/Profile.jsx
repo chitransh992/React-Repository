@@ -8,6 +8,6 @@ function Profile(){
     if(!user) return <div>Please Login</div>
 
     return <div>Welcome {user.username}</div>
-}
+}654
 
 export default Profile
